@@ -46,7 +46,7 @@ ddsmoothmenu.init({
     	<div id="site_title"><h1><a href="#">Online Toy Store</a></h1></div>
         <div id="header_right">
         	<p>
-	        <a href="showproduct.php">Show product</a> | <a href="showbill.php">Show bill</a> | <a href="showbilldetail.php">Show bill detail</a> | <a href="#">Profile</a> | <a href="#">Log out</a></p>
+	        <a href="showproduct.php">Show dicks</a> | <a href="showbill.php">Show bill</a> | <a href="showbilldetail.php">Show bill detail</a> | <a href="#">Profile</a> | <a href="#">Log out</a></p>
             <p>
             	Shopping Cart: <strong>0 item</strong> ( <a href="shoppingcart.php">Show Cart</a> )
 			</p>
